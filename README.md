@@ -1,5 +1,5 @@
 # A convolutional attentional neural network for sentiment classification in PyTorch
-This repo is aiming for reproducing the sentiment classifcation experiments in Du et al. (IEEE 2017).
+This repo is aiming for reproducing the sentiment classifcation experiments in Du et al. (IEEE 2017).  
 http://ieeexplore.ieee.org/document/8304320/
 
 ## Datasets  
